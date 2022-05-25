@@ -1,0 +1,14 @@
+{
+  "name": "Puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:newqwes/Puppeteer.git",
+  "author": "Nazar Ashyrov <newnewqwes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
